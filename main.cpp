@@ -9,7 +9,7 @@
 #include "vec3.h"
 #include <iostream>
 
-// stop at 13.1
+// stop at week 2.4
 int main() {
     hittable_list world;
 
